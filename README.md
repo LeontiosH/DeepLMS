@@ -4,4 +4,4 @@ S. B. Dias, S. J. Hadjileontiadou, J. A. Diniz, and L. J. Hadjileontiadis. DeepL
 Scientific Reports, 2020 (under review). This paper should be cited when the data/codes are used for scientific purposes only.
 
 To donwload the data please go to DeepLMS-data branch.
-To download the Matalab code, please go to DeepLMS-code
+To download the Matalab code, please go to Matlab-code
